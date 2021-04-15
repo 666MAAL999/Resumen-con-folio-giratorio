@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resumen xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="resumen.xsd" 
+titulo="Almacenamiento de datos XML">
+    <idea-principal>Tecnologías XML
+        <idea-secundaria>Se intercambia y almacena información</idea-secundaria>
+        <idea-secundaria>Uso de Gestión Documental</idea-secundaria>
+        <idea-secundaria>Centrada en datos y contenidos</idea-secundaria>
+    </idea-principal>
+    <idea-principal>Estado Actual
+        <idea-secundaria>Estandares emergentes y conflictivos</idea-secundaria>
+        <idea-secundaria>Nuevas habilidades requeridas</idea-secundaria>
+        <idea-secundaria>Probllemas administrativos para la gran cantidad de datos XML administrados</idea-secundaria>
+    </idea-principal>
+    <idea-principal>Consideración sobre Almacenamiento XML
+        <idea-secundaria>Es consistente, confiable y eficiente</idea-secundaria>
+        <idea-secundaria>Más aplicaciones depende de BD relacional</idea-secundaria>
+        <idea-secundaria>Nuevos productos nativos XML</idea-secundaria>
+        <idea-secundaria>Más estategías de almacenamiento</idea-secundaria>
+    </idea-principal>
+    <idea-principal>Formas de Almacenar XML
+        <idea-secundaria>Almacenamiento directo del archivo (menos recomendables)</idea-secundaria>
+        <idea-secundaria>Almacenamiento en BD relacional "Habilitada"</idea-secundaria>
+        <idea-secundaria>Almacenar fichero en BD nativa XML</idea-secundaria>
+    </idea-principal>
+    <idea-principal>Ejemplos de uso XML
+        <idea-secundaria>Trasmisión de documentos en sistemas B2B</idea-secundaria>
+        <idea-secundaria>Gestión de la configuración de aplicaciones y sistemas</idea-secundaria>
+        <idea-secundaria>Almacenamiento y obtención de datos</idea-secundaria>
+    </idea-principal>
+</resumen>
